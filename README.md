@@ -24,3 +24,10 @@ electron-packager . AlarmClock：把當前目錄 . 打包起來，並將應用�
 --version-string.CompanyName=Robby：軟體公司名稱（顯示於軟體資訊中）
 
 --version-string.ProductName=AlarmClock：軟體名稱（顯示於軟體資訊中）
+
+---------------------------------------------------------------------------------------------------
+
+** Git LFS 原理、大小檔案都適用
+https://haway.30cm.gg/git-lfs/
+
+https://gitbook.tw/chapters/faq/remove-files-from-git
